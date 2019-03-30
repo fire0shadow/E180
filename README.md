@@ -27,6 +27,6 @@
   </tr>
 </table>
 
-<img align="left" width="400" src="https://raw.githubusercontent.com/fire0shadow/E180/master/slipcase-1.png">
-<img align="left" width="400" src="https://raw.githubusercontent.com/fire0shadow/E180/master/stickers-1.png"><br>
-<img align="left" width="400" src="https://raw.githubusercontent.com/fire0shadow/E180/master/stickers-2.png">
+<img align="left" width="200" src="https://raw.githubusercontent.com/fire0shadow/E180/master/slipcase-1.png">
+<img align="left" width="200" src="https://raw.githubusercontent.com/fire0shadow/E180/master/stickers-1.png">
+<img align="left" width="200" src="https://raw.githubusercontent.com/fire0shadow/E180/master/stickers-2.png">
