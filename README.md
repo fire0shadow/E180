@@ -17,17 +17,17 @@
   <tr>
     <td>slipcase-1.svg</td>
     <td>Коробка, вариант 1 (спасибо Radon)</td>
-    <td><img align="center" width="100" src="https://raw.githubusercontent.com/fire0shadow/E180/master/slipcase-1.png"></td>
+    <td><p align="center"><img width="100" src="https://raw.githubusercontent.com/fire0shadow/E180/master/slipcase-1.png"></p></td>
   </tr>
   <tr>
     <td>stickers-1.svg</td>
     <td>Наклейки, вариант 1 (спасибо Radon)</td>
-    <td><img align="center" width="100" src="https://raw.githubusercontent.com/fire0shadow/E180/master/stickers-1.png"></td>
+    <td><p align="center"><img width="100" src="https://raw.githubusercontent.com/fire0shadow/E180/master/stickers-1.png"></p></td>
   </tr>
   <tr>
     <td>stickers-2.svg</td>
     <td>Наклейки, вариант 2 (спасибо Radon)</td>
-    <td><img align="center" width="100" src="https://raw.githubusercontent.com/fire0shadow/E180/master/stickers-2.png"></td>
+    <td><p align="center"><img width="100" src="https://raw.githubusercontent.com/fire0shadow/E180/master/stickers-2.png"></p></td>
   </tr>
   <tr>
     <td>slipcase-1-print.svg</td>
